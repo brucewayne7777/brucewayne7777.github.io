@@ -66,8 +66,10 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sudhaavan Kumaran is an engineering student specializing in mechatronics, with a strong background in robotics, embedded systems, and intelligent automation. He is currently pursuing a degree in Mechatronic Systems at Berliner Hochschule für Technik Berlin, where he is actively involved in projects that bridge hardware and software integration. Sudhaavan is passionate about developing smart, adaptive technologies that support modern automation and solve real-world engineering challenges.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His interests include autonomous robotics, embedded system design, and sensor integration. He enjoys applying engineering principles to innovate and contribute to the advancement of robotics and automation. Recently, Sudhaavan has participated in the design and prototyping of modular robotics platforms and collaborative automation tools focused on manufacturing and logistics.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+Outside of academics and technical projects, Sudhaavan enjoys exploring new programming languages, mentoring aspiring engineers, and engaging in sports like football and badminton.
+
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé (in german)as a PDF.

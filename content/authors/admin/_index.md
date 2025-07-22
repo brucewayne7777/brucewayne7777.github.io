@@ -72,4 +72,4 @@ His interests include autonomous robotics, embedded system design, and sensor in
 
 Outside of academics and technical projects, Sudhaavan enjoys exploring new programming languages, mentoring aspiring engineers, and engaging in sports like football and badminton.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé (in german)as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé (in german) as a PDF.

@@ -1,17 +1,21 @@
-# Configuration of Hugo
+GoogleAnalytics: ""
+  # Google Analytics ID, e.g., 'UA-12345678-1'
+  # If you want to use Google Analytics, set this to your ID
+  # If you don't want to use Google Analytics, leave it empty
+  # Example: 'UA-12345678-1'
+
 # Guide: https://docs.hugoblox.com/tutorial/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Sudhaavan Kumaran # Website name
-baseURL: 'https://brucewayne7777.github.io' # Website URL
+title: Sudhaavan Kumaran
+baseURL: 'https://brucewayne7777.github.io'
 
 ############################
 ## PAGE OPTIONS
 ############################
 
 cascade:
-  # Blog post options
   - _target:
       path: /post/**
     editable: true

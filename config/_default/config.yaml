@@ -1,0 +1,5 @@
+GoogleAnalytics: ""
+  # Google Analytics ID, e.g., 'UA-12345678-1'
+  # If you want to use Google Analytics, set this to your ID
+  # If you don't want to use Google Analytics, leave it empty
+  # Example: 'UA-12345678-1'

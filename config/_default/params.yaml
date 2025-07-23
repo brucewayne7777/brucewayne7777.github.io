@@ -70,7 +70,7 @@ features:
   repository:
     url: 'https://github.com/brucewayne7777/brucewayne7777.github.io'
     content_dir: content
-    branch: main
+    branch: testdeploy
   avatar:
     gravatar: false
     shape: circle
@@ -100,7 +100,7 @@ features:
 
 extensions:
   cms:
-    branch: main
+    branch: testdeploy
     local_backend: false
   academicons:
     enable: false

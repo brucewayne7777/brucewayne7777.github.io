@@ -25,7 +25,7 @@ experience:
   - title: Research Intern - Design and Integration of Skin-based Tactile Sensors for Human-Robot Interactions
     company: Concordia University
     company_url: ''
-    company_logo: org-gc
+    company_logo: concordia
     location: Montreal, CA
     date_start: '2025-05-01'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Working Student - Design and Manufacturing of Test Benches
     company: IMX Solutions GmbH
     company_url: ''
-    company_logo: org-x
+    company_logo: imx-solutions
     location: Berlin, DE
     date_start: '2024-10-01'
     date_end: '2025-04-30'
@@ -48,16 +48,6 @@ experience:
         *   Technical documentation: Reading and understanding of production documents and electrical circuit diagrams.
         *   Support in testing electrical machines according to DIN EN 60204.
         *   Work with ERP system ABAS for order production lists and documentation.
-  - title: Sales Assistant
-    company: Hennes & Mauritz (H&M)
-    company_url: ''
-    company_logo: 
-    location: Berlin, DE
-    date_start: '2022-03-01'
-    date_end: '2024-09-30'
-    description: |2-
-        *   Customer service and sales activities in retail.
-        *   Responsibility for goods flow and presentation of collections.
 design:
   columns: '1'
 ---

@@ -17,8 +17,8 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: sudhaavan@gmail.com
-  phone: +49 157 38188982
+  # email: sudhaavan@gmail.com
+  # phone: +49 157 38188982
   
   # Email form provider
   form:

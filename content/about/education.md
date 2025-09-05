@@ -25,7 +25,7 @@ experience:
   - title: Mechatronics (B.Eng.)
     company: Berliner Hochschule für Technik
     company_url: ''
-    company_logo: org-x
+    company_logo: bht
     location: Berlin, DE
     date_start: '2021-10-01'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
     date_start: '2019-04-01'
     date_end: '2021-07-31'
     description: ''
-  - title: Cambridge International A Level (Abitur)
+  - title: Cambridge International A Level
     company: Methodist College Kuala Lumpur
     company_url: ''
     company_logo:

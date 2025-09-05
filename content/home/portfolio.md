@@ -28,12 +28,16 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
+    - name: Robotics
+      tag: Robotics
+    - name: Mechatronics
+      tag: Mechatronics
     - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+      tag: Computer Vision
+    - name: ROS2
+      tag: ROS2
+    - name: Python
+      tag: Python
 
 design:
   columns: '1'

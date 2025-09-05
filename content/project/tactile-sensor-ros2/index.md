@@ -6,6 +6,7 @@ tags:
   - Python
   - Arduino
   - C++
+  - Robotics
 date: "2025-05-20T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""

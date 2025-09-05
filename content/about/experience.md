@@ -38,7 +38,7 @@ experience:
   - title: Working Student - Design and Manufacturing of Test Benches
     company: IMX Solutions GmbH
     company_url: ''
-    company_logo: imx-solutions
+    company_logo: imx
     location: Berlin, DE
     date_start: '2024-10-01'
     date_end: '2025-04-30'

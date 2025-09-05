@@ -16,6 +16,10 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
+  # Contact details (edit or remove options as required)
+  email: sudhaavan@gmail.com
+  phone: +49 157 38188982
+  
   # Email form provider
   form:
     provider: netlify

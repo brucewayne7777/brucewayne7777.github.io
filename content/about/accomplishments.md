@@ -23,31 +23,44 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+  - date_end: ''
+    date_start: '2025-03-01'
+    description: 'Selected for a competitive international research internship as part of the Mitacs Globalink program at Concordia University, Montréal.'
+    organization: Mitacs
+    organization_url: 'https://www.mitacs.ca/en/programs/globalink/globalink-research-internship'
+    title: Mitacs Globalink Research Internship
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+  - date_end: ''
+    date_start: '2025-03-01'
+    description: 'Additional funding through the RISE worldwide program of the DAAD as part of the Mitacs Globalink Research Internship to support international research collaborations.'
+    organization: DAAD
+    organization_url: 'https://www.daad.de/en/rise/rise-worldwide/'
+    title: 'DAAD – RISE worldwide'
     url: ''
-
+  - certificate_url: 'https://www.linkedin.com/learning/certificates/7b59725e0118ea8a5856440f0c07ca2fac8d6aab79d5d1094630b64d87974533?u=68873474'
+    date_end: ''
+    date_start: '2025-01-01'
+    description: ''
+    organization: LinkedIn Learning
+    organization_url: 'https://www.linkedin.com/learning'
+    title: 'Git Essential Training'
+    url: ''
+  - certificate_url: 'https://matlabacademy.mathworks.com/progress/share/certificate.html?id=303c9299-e989-4a42-a039-df8654c513b8&'
+    date_end: ''
+    date_start: '2025-01-01'
+    description: ''
+    organization: MathWorks
+    organization_url: 'https://matlabacademy.mathworks.com/'
+    title: 'MATLAB Onramp'
+    url: ''
+  - certificate_url: 'https://matlabacademy.mathworks.com/progress/share/certificate.html?id=d0209f16-c758-4f67-96ab-62bce21b7247&'
+    date_end: ''
+    date_start: '2025-01-01'
+    description: ''
+    organization: MathWorks
+    organization_url: 'https://matlabacademy.mathworks.com/'
+    title: 'Simulink Onramp'
+    url: ''
 design:
   columns: '1'
 ---

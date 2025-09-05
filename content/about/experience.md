@@ -22,20 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Software Developer Intern
-    company: Concordia
+  - title: Research Intern - Design and Integration of Skin-based Tactile Sensors for Human-Robot Interactions
+    company: Concordia University
     company_url: ''
     company_logo: org-gc
-    location: Montreal
-    date_start: '2022-06-01'
-    date_end: '2022-08-31'
+    location: Montreal, CA
+    date_start: '2025-05-01'
+    date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Developed and maintained web applications.
-        * Collaborated with the software development team on various projects.
-        * Gained experience in agile development methodologies.
-
+        *   Technical research and literature analysis on the state of the art of robotic skin technologies.
+        *   Systematic planning and development of prototypes.
+        *   Development and assembly of a piezoresistive tactile sensor with Arduino electronics.
+        *   Integration of sensor systems in ROS2 environment.
+        *   Collaboration on mechanical development projects.
+  - title: Working Student - Design and Manufacturing of Test Benches
+    company: IMX Solutions GmbH
+    company_url: ''
+    company_logo: org-x
+    location: Berlin, DE
+    date_start: '2024-10-01'
+    date_end: '2025-04-30'
+    description: |2-
+        *   Design and mechanical assembly of test benches for electrical machines.
+        *   Development and spatial arrangement of mounting plates with components.
+        *   Technical documentation: Reading and understanding of production documents and electrical circuit diagrams.
+        *   Support in testing electrical machines according to DIN EN 60204.
+        *   Work with ERP system ABAS for order production lists and documentation.
+  - title: Sales Assistant
+    company: Hennes & Mauritz (H&M)
+    company_url: ''
+    company_logo: 
+    location: Berlin, DE
+    date_start: '2022-03-01'
+    date_end: '2024-09-30'
+    description: |2-
+        *   Customer service and sales activities in retail.
+        *   Responsibility for goods flow and presentation of collections.
 design:
   columns: '1'
 ---

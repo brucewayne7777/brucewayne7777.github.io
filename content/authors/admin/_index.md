@@ -72,4 +72,15 @@ I am a mechatronics student at Berliner Hochschule für Technik (BHT) with a pas
 
 My interests lie in the intersection of mechanical, electrical, and computer engineering to create intelligent systems. I am always eager to learn new technologies and apply them to real-world problems.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+### Technical Skills
+*   **Programming Languages:** Python, C/C++, MATLAB
+*   **Development Tools:** Git/GitHub, VS Code, ROS2
+*   **Software:** SAP/ERP (ABAS), MS Office, LaTeX, LabVIEW
+*   **Platforms:** Linux, Windows, Arduino
+
+### Languages
+*   **German:** Fluent
+*   **English:** Native / Bilingual
+*   **Malay:** Native / Bilingual
+*   **Tamil:** Fluent
+*   **Malayalam:** Fluent

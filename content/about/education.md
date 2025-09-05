@@ -22,13 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: BSc in Computer Science
-    company: BHT Berlin
+  - title: Mechatronics (B.Eng.)
+    company: Berliner Hochschule für Technik
     company_url: ''
     company_logo: org-x
-    location: Berlin
+    location: Berlin, DE
     date_start: '2021-10-01'
     date_end: ''
+    description: ''
+  - title: German Course (Level A1 to C1)
+    company: German Educare / Sprachenakademie Aachen
+    company_url: ''
+    company_logo:
+    location: Kuala Lumpur, MY / Aachen, DE
+    date_start: '2019-04-01'
+    date_end: '2021-07-31'
+    description: ''
+  - title: Cambridge International A Level (Abitur)
+    company: Methodist College Kuala Lumpur
+    company_url: ''
+    company_logo:
+    location: Kuala Lumpur, MY
+    date_start: '2019-04-01'
+    date_end: '2020-12-31'
     description: ''
 
 design:

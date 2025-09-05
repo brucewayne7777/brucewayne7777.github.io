@@ -6,7 +6,7 @@ title: Sudhaavan
 superuser: true
 
 # Role/position
-role: Student at BHT Berlin
+role: Mechatronics Student at BHT Berlin
 
 # Status emoji
 status:
@@ -18,12 +18,14 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include web development, machine learning, and artificial intelligence.
+bio: My research interests include mechatronics, robotics, automation, and computer vision.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Mechatronics
+- Robotics
+- Automation
+- Embedded Systems
+- Computer Vision
 
 #education:
 #  courses:
@@ -66,8 +68,8 @@ social:
 #email: ""
 ---
 
-I am a student at Berliner Hochschule für Technik (BHT) with a passion for web development and artificial intelligence. I recently completed an internship at Concordia, where I gained valuable experience in software development.
+I am a mechatronics student at Berliner Hochschule für Technik (BHT) with a passion for robotics and automation. I recently completed an internship at Concordia, where I gained valuable experience in developing and integrating tactile sensors for human-robot interaction.
 
-My interests lie in creating beautiful and functional websites and exploring the possibilities of machine learning. I am always eager to learn new technologies and apply them to real-world problems.
+My interests lie in the intersection of mechanical, electrical, and computer engineering to create intelligent systems. I am always eager to learn new technologies and apply them to real-world problems.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

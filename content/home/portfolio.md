@@ -30,8 +30,8 @@ content:
       tag: '*'
     - name: Robotics
       tag: Robotics
-    - name: Mechatronics
-      tag: Mechatronics
+    # - name: Mechatronics
+    #   tag: Mechatronics
     - name: Computer Vision
       tag: Computer Vision
     - name: ROS2

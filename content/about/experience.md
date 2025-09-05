@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Intern - Design and Integration of Skin-based Tactile Sensors for Human-Robot Interactions
     company: Concordia University
-    company_url: ''
+    company_url: https://www.concordia.ca/
     company_logo: concordia
     location: Montreal, CA
     date_start: '2025-05-01'
@@ -37,7 +37,7 @@ experience:
         *   Collaboration on mechanical development projects.
   - title: Working Student - Design and Manufacturing of Test Benches
     company: IMX Solutions GmbH
-    company_url: ''
+    company_url: https://www.imx-solutions.com/
     company_logo: imx
     location: Berlin, DE
     date_start: '2024-10-01'

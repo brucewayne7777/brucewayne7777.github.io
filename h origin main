@@ -1,0 +1,11 @@
+[33m72192f5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update Hugo configuration and content: changed site base URL, revised portfolio description, and added company URLs for experience entries.
+[33m424cce5[m Comment out Mechatronics category in portfolio to streamline project tags and maintain focus on current areas of expertise.
+[33meada1a2[m Update portfolio and project tags: added Robotics and Mechatronics categories to the portfolio, and included Robotics tag in the tactile sensor project.
+[33m364bdf6[m Update author profile for Sudhaavan: changed academic focus from computer science to mechatronics, and revised introductory text on personal website.
+[33m5b6b48f[m Update contact form provider to Formspree, update company URL for education section, and replace outdated icon image.
+[33m7182cac[m Update company logo for IMX Solutions in experience section of Sudhaavan's portfolio.
+[33m2c4adfb[m Update contact information and refine education and experience sections for Sudhaavan: commented out personal email and phone details, corrected company logos, and removed outdated experience entries.
+[33m60caadf[m Enhance portfolio for Sudhaavan: added new accomplishments, updated education and experience sections with recent internships and courses, included contact details, and revised technical skills and languages.
+[33m5199868[m Revise author profile for Sudhaavan: updated role to Mechatronics Student, enhanced bio and interests to reflect focus on mechatronics, robotics, automation, and computer vision.
+[33m411bc9b[m Update portfolio details for Sudhaavan: changed site title, updated education and experience sections, revised author information, and removed outdated project entries and images.
+[33m68705b2[m Initial commit

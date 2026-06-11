@@ -155,13 +155,9 @@
       .brand {
         display: flex;
         align-items: center;
-        gap: 0.9rem;
         font-weight: 700;
-      }
-      .brand-mark {
-        width: 2rem;
-        height: 2rem;
-        color: var(--color-primary);
+        font-size: var(--text-base);
+        letter-spacing: -0.01em;
       }
       .nav-links {
         display: flex;
@@ -339,6 +335,12 @@
         );
         position: relative;
       }
+      .project-media img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
       .project-media::after {
         content: "";
         position: absolute;
@@ -478,29 +480,6 @@
     <header class="site-header">
       <div class="container nav">
         <a class="brand" href="#top" aria-label="Sudhaavan home">
-          <svg
-            class="brand-mark"
-            viewBox="0 0 48 48"
-            fill="none"
-            aria-hidden="true"
-          >
-            <rect
-              x="6"
-              y="6"
-              width="36"
-              height="36"
-              rx="12"
-              stroke="currentColor"
-              stroke-width="2.5"
-            ></rect>
-            <path
-              d="M15 29.5L24 14l9 15.5M19 24h10"
-              stroke="currentColor"
-              stroke-width="2.5"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            ></path>
-          </svg>
           <span>Sudhaavan</span>
         </a>
         <nav class="nav-links" aria-label="Primary">
@@ -526,16 +505,14 @@
             <div class="eyebrow">Berlin · Mechatronics · Robotics</div>
             <h1>Building tactile, embedded, and robotic systems.</h1>
             <p>
-              Sudhaavan is a mechatronics student at BHT Berlin focused on
-              robotics, automation, embedded systems, and computer vision. This
-              portfolio is designed as a project-first engineering landing page,
-              with selected work, technical background, and professional
-              experience in one place.
+              Mechatronics student at BHT Berlin and Werkstudent at Siemens,
+              working across robotics, automation, embedded systems, and
+              computer vision. This portfolio showcases hands-on engineering
+              projects spanning hardware prototypes, perception systems, and
+              software integration.
             </p>
             <div class="hero-actions">
-              <a class="btn btn-primary" href="#projects"
-                >View selected projects</a
-              >
+              <a class="btn btn-primary" href="#projects">View selected projects</a>
               <a
                 class="btn btn-secondary"
                 href="https://github.com/brucewayne7777"
@@ -558,21 +535,16 @@
           >
             <div class="eyebrow">Current focus</div>
             <div class="stat">
-              <strong>Mechatronics</strong
-              ><span>BHT Berlin · robotics and automation</span>
+              <strong>Siemens AG</strong>
+              <span>Werkstudent · Musterbau · Rohrdamm, Berlin</span>
             </div>
             <div class="stat">
-              <strong>Embedded + ROS2</strong
-              ><span
-                >Hands-on work across C, Python, sensors, and controls</span
-              >
+              <strong>BHT Berlin</strong>
+              <span>B.Eng. Mechatronics · robotics and automation</span>
             </div>
             <div class="stat">
-              <strong>Project-driven</strong
-              ><span
-                >Portfolio built around hardware prototypes, perception, and
-                integration</span
-              >
+              <strong>Embedded + ROS2</strong>
+              <span>Hands-on work across C, Python, sensors, and controls</span>
             </div>
           </aside>
         </div>
@@ -584,21 +556,18 @@
             <div class="eyebrow">About</div>
             <h2>Engineering across mechanics, electronics, and software.</h2>
             <p>
-              The site is currently structured as a project-first portfolio
-              rather than a traditional academic template, reflecting a focus on
-              demonstrable engineering work, GitHub activity, and practical
-              robotics development.
+              A project-first portfolio reflecting demonstrable engineering work,
+              GitHub activity, and practical robotics development.
             </p>
           </div>
           <div class="about-grid">
             <article class="panel reveal">
               <p>
                 I am a mechatronics student at Berliner Hochschule für Technik
-                (BHT) with interests in robotics, automation, embedded systems,
-                and computer vision. My recent profile and portfolio materials
-                describe work around tactile sensing, human-robot interaction,
-                and interdisciplinary engineering that combines mechanical,
-                electrical, and software components.
+                (BHT) and currently working as a Werkstudent at Siemens AG in
+                Berlin Siemensstadt. My work spans prototype construction,
+                embedded systems, and robotics — with a particular interest in
+                tactile sensing, human-robot interaction, and computer vision.
               </p>
             </article>
             <aside class="panel reveal">
@@ -607,19 +576,20 @@
                   <strong>Location</strong><span>Berlin, Germany</span>
                 </div>
                 <div class="meta-row">
-                  <strong>Role</strong
-                  ><span>Mechatronics Student at BHT Berlin</span>
+                  <strong>Current role</strong>
+                  <span>Werkstudent at Siemens AG</span>
                 </div>
                 <div class="meta-row">
-                  <strong>Interests</strong
-                  ><span
-                    >Robotics, automation, embedded systems, computer
-                    vision</span
-                  >
+                  <strong>Studies</strong>
+                  <span>B.Eng. Mechatronics · BHT Berlin</span>
                 </div>
                 <div class="meta-row">
-                  <strong>Languages</strong
-                  ><span>German, English, Malay, Tamil, Malayalam</span>
+                  <strong>Interests</strong>
+                  <span>Robotics, automation, embedded systems, computer vision</span>
+                </div>
+                <div class="meta-row">
+                  <strong>Languages</strong>
+                  <span>German, English, Malay, Tamil, Malayalam</span>
                 </div>
               </div>
             </aside>
@@ -631,27 +601,24 @@
         <div class="container">
           <div class="section-head reveal">
             <div class="eyebrow">Selected projects</div>
-            <h2>Work presented like engineering case studies.</h2>
+            <h2>Engineering work across robotics, vision, and hardware.</h2>
             <p>
-              Your existing GitHub Pages portfolio already contains project
-              folders for tactile sensing, a document scanner, variable
-              stiffness fingers, and Kartenmischer Geber, which makes it a
-              strong base for a visual redesign centered around project cards
-              and media.
+              A selection of hands-on projects covering tactile sensing, embedded
+              control, computer vision, and compliant robotics design.
             </p>
           </div>
           <div class="projects-grid">
             <article class="project-card reveal">
               <div class="project-media" aria-hidden="true">
-                <img src="assets/tactile-sensor.jpg" alt="Tactile Sensor" />
+                <img src="assets/tactile-sensor.jpg" alt="Tactile Sensor ROS2 project" loading="lazy" />
               </div>
               <div>
                 <div class="eyebrow">ROS2 · Robotics</div>
                 <h3>Tactile Sensor ROS2</h3>
                 <p>
-                  Tactile skin sensor work for human-robot interaction,
-                  integrating sensing and robotics software into a
-                  portfolio-ready project page.
+                  Tactile skin sensor for human-robot interaction, integrating
+                  sensing hardware with ROS2 software for real-time data
+                  acquisition and control.
                 </p>
               </div>
               <div class="tags">
@@ -663,7 +630,8 @@
               <div class="project-media" aria-hidden="true">
                 <img
                   src="assets/kartenmischer.jpg"
-                  alt="Kartenmischer Prototype"
+                  alt="Kartenmischer Geber prototype"
+                  loading="lazy"
                 />
               </div>
               <div>
@@ -681,14 +649,14 @@
             </article>
             <article class="project-card reveal">
               <div class="project-media" aria-hidden="true">
-                <img src="assets/document-scanner.jpg" alt="Document Scanner" />
+                <img src="assets/document-scanner.jpg" alt="Document Scanner OpenCV" loading="lazy" />
               </div>
               <div>
                 <div class="eyebrow">Computer vision</div>
                 <h3>Document Scanner</h3>
                 <p>
                   An OpenCV-based scanner that detects document boundaries and
-                  creates a corrected top-down perspective for cleaner digital
+                  produces a corrected top-down perspective for cleaner digital
                   scans.
                 </p>
               </div>
@@ -701,16 +669,16 @@
               <div class="project-media" aria-hidden="true">
                 <img
                   src="assets/variable-stiffness.png"
-                  alt="Variable Stiffness Fingers"
+                  alt="Variable Stiffness Fingers robotics design"
+                  loading="lazy"
                 />
               </div>
               <div>
                 <div class="eyebrow">Robotics design</div>
                 <h3>Variable Stiffness Fingers</h3>
                 <p>
-                  A robotics design project exploring compliant or
-                  variable-stiffness behavior for gripping and interaction
-                  tasks.
+                  A robotics design project exploring compliant and
+                  variable-stiffness behavior for gripping and interaction tasks.
                 </p>
               </div>
               <div class="tags">
@@ -729,40 +697,42 @@
             <div class="eyebrow">Experience</div>
             <h2>Professional and academic trajectory.</h2>
             <p>
-              This structure can later be expanded with lab pages, thesis work,
-              videos, and project-specific case studies, similar to project
-              websites used in robotics and research communities.
+              Combining industry work at Siemens with academic study and
+              independent engineering projects.
             </p>
           </div>
           <div class="panel reveal">
             <div class="timeline">
               <div class="timeline-item">
-                <time>Current</time>
+                <time>2025 – present</time>
                 <div>
-                  <h3>Mechatronics Student · BHT Berlin</h3>
+                  <h3>Werkstudent (Musterbau) · Siemens AG</h3>
                   <p>
-                    Academic focus on mechatronics, robotics, automation, and
-                    computer vision.
-                  </p>
-                </div>
-              </div>
-              <div class="timeline-item">
-                <time>Recent</time>
-                <div>
-                  <h3>Internship · Concordia</h3>
-                  <p>
-                    Experience in developing and integrating tactile sensors for
-                    human-robot interaction.
+                    Working in the prototype construction (Musterbau) department
+                    at Siemens Rohrdamm, Berlin. Responsibilities include building
+                    and testing prototypes, interpreting technical documentation,
+                    and contributing to hands-on hardware development in an
+                    industrial engineering environment.
                   </p>
                 </div>
               </div>
               <div class="timeline-item">
                 <time>Ongoing</time>
                 <div>
-                  <h3>GitHub-centered technical portfolio</h3>
+                  <h3>B.Eng. Mechatronics · BHT Berlin</h3>
                   <p>
-                    Public work spans project repos, ROS2-related development,
-                    and a dedicated GitHub Pages portfolio repository.
+                    Academic focus on mechatronics, robotics, automation, and
+                    computer vision at Berliner Hochschule für Technik.
+                  </p>
+                </div>
+              </div>
+              <div class="timeline-item">
+                <time>Previous</time>
+                <div>
+                  <h3>Internship · Concordia</h3>
+                  <p>
+                    Developed and integrated tactile sensors for human-robot
+                    interaction, combining hardware and ROS2 software.
                   </p>
                 </div>
               </div>
@@ -787,7 +757,7 @@
               </ul>
             </div>
             <div class="panel reveal">
-              <h3>Platforms & tooling</h3>
+              <h3>Platforms &amp; tooling</h3>
               <ul>
                 <li>Git / GitHub</li>
                 <li>VS Code</li>
@@ -822,9 +792,8 @@
               Open to robotics, embedded, and automation opportunities.
             </h2>
             <p>
-              Use this section for thesis opportunities, collaborations, project
-              demos, and professional networking across robotics and
-              mechatronics.
+              Available for collaborations, thesis projects, and professional
+              networking across robotics and mechatronics.
             </p>
             <div
               class="hero-actions"
@@ -852,7 +821,7 @@
 
     <footer>
       <div class="container footer-row">
-        <span>Work in Progress</span>
+        <span>Sudhaavan · Mechatronics Portfolio</span>
         <span>2026</span>
       </div>
     </footer>
